@@ -1,0 +1,30 @@
+
+
+{
+   "touser":"oUajqwM5_ITZPRbYoymdGxbN0z_8",
+   "template_id":"AVmzMh2tzDJ7zxJhqbggUSkU7dFSDC2vEJIGw-U8Wp0",
+   "data":{
+           "first": {
+               "value":"恭喜你购买成功！",
+               "color":"#173177"
+           },
+           "keyword1":{
+               "value":"巧克力",
+               "color":"#173177"
+           },
+           "keyword2": {
+               "value":"39.8元",
+               "color":"#173177"
+           },
+           "keyword3": {
+               "value":"2014年9月22日",
+               "color":"#173177"
+           },
+           "remark":{
+               "value":"欢迎再次购买！",
+               "color":"#173177"
+           }
+   }
+}
+
+https://api.weixin.qq.com/cgi-bin/media/get?access_token=26_G5giayN-2NRpq5yVcgQ8IyItoO2WcRpyukkxxv_qj5kh8Y1IagryVR0i5hO-6KIyZKXywWXTLs2P-nx7cDY6WaDU35Nu9rtJS9ZHKHUbwUBEw9ASSTBZydPzoHvD_8ehfWNbF-QC6jO1UMMCDINeAIAJOT&media_id=KclYpJthwCu8okT07ykjIOEq7nZyFyhLKOPVQaryDQqqeCHa8KgbIzqY5aiWwAKO
